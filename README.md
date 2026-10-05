@@ -1,19 +1,19 @@
 # Sales-Dashboard
-1. Project Title 
+1. Project Title -
 Madhav Ecommerce Sales & Profit Performance Analytics Dashboard
 An interactive Power BI dashboard to track overall e-commerce sales, profitability, product category trends, and customer payment behavior.
 
-2. Short Description 
+2. Short Description -
 The Madhav Ecommerce Sales Dashboard is designed to provide actionable business insights into e-commerce operations. It helps business owners and data analysts track key revenue drivers, identify top-performing states and customers, analyze monthly profit fluctuations, and understand customer purchasing preferences across payment modes.
 
-3. Tech Stack
+3. Tech Stack-
 The dashboard was built using the following tools and technologies:
  * Power BI Desktop: Core platform used for designing the dashboard layout, visualizations, and custom color themes.
  * Power Query: Utilized for data cleaning, transforming order and customer datasets, and shaping column formats.
  * DAX (Data Analysis Expressions): Used to calculate key performance indicators (KPIs) such as Total Amount (438K), Total Profit (37K), Total Quantity (6K), and Average Order Value (AOV - 121K).
  * Data Modeling: Created relationships between sales transactions, categories, and geographical tables to enable multi-dimensional filtering (by State and Quarter).
 
-4. Features
+4. Features -
 
 Business Problem & Goal
 E-commerce businesses need to quickly identify which regions, categories, and payment methods contribute most to profit, while monitoring monthly performance trends to address losses (e.g., in months like May).
